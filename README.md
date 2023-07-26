@@ -31,7 +31,8 @@ usually we put all secrets within credentials and configurations within config f
   
   These credentials will expire at: 2023-03-17 01:52:07 +0530 IST
 
-4. Run "./localScript.sh"
+4. give execute permission to localScript.sh 
+5. Run "./localScript.sh"
 
 Description of script
 
